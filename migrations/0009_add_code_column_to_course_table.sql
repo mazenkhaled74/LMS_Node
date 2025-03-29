@@ -1,0 +1,2 @@
+ALTER TABLE "courses"
+ADD COLUMN enrollment_code VARCHAR(50) UNIQUE NOT NULL;

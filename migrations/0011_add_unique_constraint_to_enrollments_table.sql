@@ -1,0 +1,1 @@
+ALTER TABLE enrollments ADD UNIQUE (student_id, course_id);

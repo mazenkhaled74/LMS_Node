@@ -1,0 +1,1 @@
+ALTER TABLE enrollment_requests ADD UNIQUE (student_id, course_id);
